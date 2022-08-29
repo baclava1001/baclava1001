@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @baclava1001
-- 👀 I’m interested in shifting career to developer or maybe UX.
+- 👀 I’m interested in shifting career from working in the media to developer or maybe UX.
 - 🌱 I’m currently learning basic computer science online at Harvard CS50X.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
