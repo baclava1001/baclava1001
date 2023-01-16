@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @baclava1001
 - 👀 I’m interested in shifting career from media to developing or maybe UX.
 - 🌱 I’m currently learning basic C# in Malmö university, Sweden.
-      Got through the first half of Harvard CS50x online.
+      Have gotten through the first half of Harvard CS50x online and plan to finish later on.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
