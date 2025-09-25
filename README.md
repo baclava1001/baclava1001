@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Samed Salman, a humble guy in my mid-40s living in Sweden.
 - 👀 In the process of shifting careers, from journalism to system development.
-- 🎓 Recently finished System development with .NET at YH-akademin (two years long higher vocational education).
+- 🎓 Recently graduated from System development with .NET at YH-akademin (two years long higher vocational education).
 - 🌱 Currently learning Java to expand work opportunities.
-- 🌱 Took a course in basic C# in Malmö university, Sweden, spring of 2023.
 
 <!---
 baclava1001/baclava1001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
