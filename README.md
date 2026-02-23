@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Samed Salman, a humble guy in my mid-40s living in Sweden.
-- 👀 In the process of shifting careers, from journalism to system development.
-- 🎓 Recently graduated from System development with .NET at YH-akademin (two years long higher vocational education).
+- :man_office_worker: Recently shifted careers, from journalism to system development.
+- 🎓 Graduated 2025 from System development with .NET at YH-Akademin.
 - 🌱 Currently learning Java to expand work opportunities.
 
 <!---
